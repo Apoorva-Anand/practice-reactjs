@@ -1,0 +1,43 @@
+.outer{
+    background-color:aliceblue;
+    height: 180px;
+    width:850px;
+    padding: 10px;
+}
+
+.one{
+    display: flex;
+    justify-content:space-between;
+}
+
+.two{
+    text-align: left;
+}
+
+.three{
+    background-color:aqua;
+
+
+}
+.text{
+    font-size:xx-small;
+}
+
+.heading{
+    font-size: small;
+    text-align: left;
+}
+.table
+{
+    display: flex;
+    /* justify-content:space-evenly; */
+    font-size: xx-small;
+    gap:150px;
+}
+
+.four{
+    text-size-adjust:inherit;
+    display:flex;
+    justify-content: space-between;
+    align-items:center ;
+}

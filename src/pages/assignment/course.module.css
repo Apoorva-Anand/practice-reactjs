@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    gap:5px;
+}
+.inner{
+    display:flex;
+    flex-wrap: wrap;
+    width: 70%;
+    gap:5px; 
+}
+.middle{
+    /* background-color: azure; */
+    height: fit-content;
+    width: 83%;
+}
+
+.main{
+    background-color:darkkhaki;
+    height: fit-content;
+    width: 100%;
+    padding-left:auto;
+    padding-right:auto;
+
+}

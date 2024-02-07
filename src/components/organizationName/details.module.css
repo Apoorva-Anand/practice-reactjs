@@ -1,0 +1,43 @@
+.main{
+    background-color:white;
+    height: 140px;
+    width: 300px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 1px 2px 1px 1px gray;
+}
+
+
+.one{
+    
+    display: flex;
+    justify-content:space-between;
+
+    
+
+    
+    
+    
+}
+
+
+.two{
+    background-color:white;
+    width:300px;
+    height:90px;
+    
+    
+}
+.three{
+    /* background-color: antiquewhite; */
+    width:100px;
+    height: 60px;
+    border-radius: 50%;
+    overflow:hidden;
+    margin:20px;
+    
+
+}
+.font{
+    color: blueviolet;
+}

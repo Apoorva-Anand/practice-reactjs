@@ -1,0 +1,26 @@
+.main{
+    /* background-color:azure; */
+    height:fit-content;
+    width: 500px;
+    padding: 10px;
+}
+
+.center{
+    background-color:burlywood;
+    border-radius: 20px;
+    height: 200px;
+    width:400px;
+    padding: 5px;
+
+    
+
+}
+.inner{
+    display: flex;
+    justify-content: space-around;
+}
+
+.outer{
+    display: flex;
+    justify-content:end;
+}

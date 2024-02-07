@@ -1,0 +1,10 @@
+.one{
+    text-align: center;
+    color:blueviolet;
+    height: 10%;
+}
+.java{
+    display:flex;
+    gap: 60px;
+
+}

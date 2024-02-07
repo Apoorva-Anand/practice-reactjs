@@ -1,0 +1,16 @@
+.outer{
+    background-color:white;
+    width:100%;
+    height: 800px;
+    padding: 10px;
+    
+}
+.one{
+    
+    display:flex;
+    gap:10px;
+    /* justify-content:space-between; */
+}
+.two{
+    padding: 5px;
+}
