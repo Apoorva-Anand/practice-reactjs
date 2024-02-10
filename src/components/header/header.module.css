@@ -1,0 +1,11 @@
+.outer{
+    background-color:aqua;
+    height:100px;
+    width:700px;
+    padding: 10px;
+
+}
+.inner{
+    text-align: center;
+    font-size: x-small;
+}

@@ -10,6 +10,7 @@ import Offers from "./components/offers/Offers";
 import AllCourses from "./components/allCourses/AllCourses";
 import Main from "./pages/newpage/Main";
 import dayjs from "dayjs";
+import Academics from "./pages/academics/Academics";
 
 
 
@@ -25,6 +26,7 @@ function App() {
         <Route path="/assignment" element={<Offers/>} />
         <Route path="/assignment" element={<AllCourses/>} />
         <Route path="/newpage" element={<Main/>} />
+        <Route path="/academics" element={<Academics/>} />
         
       </Routes>
     </BrowserRouter>
